@@ -1,4 +1,5 @@
-https://jenjun97.github.io/WeddingDirect/dishes.html?openExternalBrowser=1
+https://jenjun97.github.io/WeddingDirect/???
+?openExternalBrowser=1
 
 
 // 電子喜帖首頁
@@ -15,7 +16,9 @@ https://jenjun97.github.io/WeddingDirect/dishes.html?openExternalBrowser=1
 
 // 婚卡-婚紗照2
 
-// 個人桌牌-婚紗照3
+// 賓客桌牌
+
+https://jenjun97.github.io/WeddingDirect/guest_table_ecard.html?openExternalBrowser=1
 
 -----------------------------------------------------
 
