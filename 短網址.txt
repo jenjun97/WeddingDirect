@@ -2,9 +2,13 @@ https://jenjun97.github.io/WeddingDirect/???
 ?openExternalBrowser=1
 
 
-// 電子喜帖首頁
+// 導頁首頁
 https://bit.ly/4bUxveU
 https://jenjun97.github.io/WeddingDirect/?openExternalBrowser=1
+
+// 電子喜帖首頁
+https://bit.ly/3ymv1IE
+https://jenjun97.github.io/WeddingDirect/wedding_ecard.html?openExternalBrowser=1
 
 // 工作人員登入頁
 
