@@ -15,9 +15,13 @@ https://bit.ly/3yAZ5Az
 http://172.233.76.34:8080/login?openExternalBrowser=1
 
 
-// 菜圖片
+// 菜圖片-一般
 https://bit.ly/4bZm9qn
 https://jenjun97.github.io/WeddingDirect/dishes.html?openExternalBrowser=1
+
+// 菜圖片-素
+https://bit.ly/4eCFj7t
+https://jenjun97.github.io/WeddingDirect/vegetables.html?openExternalBrowser=1
 
 // 婚卡-婚紗照1
 
