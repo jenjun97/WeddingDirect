@@ -14,6 +14,13 @@ https://jenjun97.github.io/WeddingDirect/wedding_ecard.html?openExternalBrowser=
 https://bit.ly/3yAZ5Az
 http://172.233.76.34:8080/login?openExternalBrowser=1
 
+// 正式版婚紗照
+https://bit.ly/47tyUbT
+https://myalbum.com/album/LfRK4wTM5YYaJs/?invite=0f17a9a9-2f76-4769-b24a-b0a1bf04ce3c
+
+// 活動頁(賓客姓名卡背後)
+https://bit.ly/3Sr7mh2
+https://jenjun97.github.io/WeddingDirect/guest_table_ecard.html?openExternalBrowser=1
 
 // 菜圖片-一般
 https://bit.ly/4bZm9qn
@@ -22,6 +29,10 @@ https://jenjun97.github.io/WeddingDirect/dishes.html?openExternalBrowser=1
 // 菜圖片-素
 https://bit.ly/4eCFj7t
 https://jenjun97.github.io/WeddingDirect/vegetables.html?openExternalBrowser=1
+
+
+
+
 
 // 婚卡-婚紗照1
 
